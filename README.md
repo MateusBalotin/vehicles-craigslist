@@ -12,4 +12,7 @@ After that, I did a bit of data cleaning, removing null values and adjusting som
 
 Then I ploted the correlation between the features and price to have a more visual understanding of the dataset.
 
+Some of the finding I had was:![download (2)](https://user-images.githubusercontent.com/48693043/180377891-7dbe84ec-2ae3-43b5-b6bb-ebc077b03d32.png)
+
+
 Finally, I tried RandomForest, Linear Regression and XGBoost to try to predict. Random Forest had the best performance.
