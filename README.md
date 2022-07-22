@@ -21,7 +21,7 @@ Some of the finding I had was:
 * Purple was a bad color and yellow one of the best ones comparing prices.
 * Trucks and Pickups had the highest price.
 
-So if you're think of selling you vehicle on Craigslist, your best shot would be to have 8 or 12 cylinders, Diesel type fuel, definitely not purple color
+So if you're think of selling your vehicle on Craigslist, your best shot would be to have a vehicle with 8 or 12 cylinders, Diesel type fuel and definitely not purple color!!
 
 
 Finally, I tried RandomForest, Linear Regression and XGBoost to try to predict. Random Forest had the best performance.
