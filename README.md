@@ -14,9 +14,9 @@ Then I ploted the correlation between the features and price to have a more visu
 
 Some of the finding I had was:
 
-* The best condition for a car was new, as one shoould expect. Though, one interesting fact, was that I applied a 'n/a' category for the null values of the title_status feature and it had the 3 highest price. That makes sense in some way, if you think see the picture of a vehicle, you usually have a pretty good understanding if it's new or old.
+* The best condition for a car was new, as one would expect. Though, one interesting fact was that I applied a 'n/a' category for the null values of the title_status feature and it had the third highest price. That makes sense in some way, if you saw the picture of a vechile you usually have a pretty good understanding if it's new or old.
 
-* The vehicles with 8 cylinders had the highest price with 12 quite near.
+* The vehicles with 8 cylinders had the highest price with 12 cylinders quite near.
 * Diesel type fuel had the highest price.
 * Purple was a bad color and yellow one of the best ones comparing prices.
 * Trucks and Pickups had the highest price.
