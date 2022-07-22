@@ -28,4 +28,5 @@ Finally, I tried RandomForest, Linear Regression and XGBoost to try to predict. 
 
 
 References: https://www.youtube.com/watch?v=Z9dGmL2G-4k&list=PL2zq7klxX5ATPC8RuqCuTDdki3b4NqKQv&index=2
+
 References: https://www.kaggle.com/code/msagmj/data-cleaning-eda-used-cars-prediction-86
